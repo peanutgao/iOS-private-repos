@@ -1,2 +1,2 @@
 # iOS-private-repos
-iOS 私有库
+iOS personal private repo
